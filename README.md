@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://yzh-01.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=B43A4E&center=true&vCenter=true&width=480&lines=Images+%E2%86%92+Useful+Insight;Long+Text+%E2%86%92+Clear+Structure;Ideas+%E2%86%92+Working+Products" alt="围绕图像、长文本和产品构建的动态打字介绍">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=B43A4E&center=true&vCenter=true&width=480&lines=Images+%E2%86%92+Insight;Text+%E2%86%92+Structure;Ideas+%E2%86%92+Products" alt="围绕图像、长文本和产品构建的动态打字介绍">
   </a>
 
   <p><strong>AI 应用与全栈产品构建</strong></p>
