@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=B43A4E&center=true&vCenter=true&width=480&lines=Hi%2C+I%27m+ZIH+Y;XJTU+%C2%B7+CS+%C2%B7+Year+3;AI+%2B+Full-stack+Builder" alt="动态打字介绍">
   </a>
 
-  <p><strong>西安交通大学 · 计算机专业 · 大三</strong></p>
-  <p>目前专注 AI 应用与全栈开发，主要使用 Python 和 TypeScript。</p>
-
   <a href="https://yzh-01.github.io/">
     <img src="https://img.shields.io/badge/WINTEROMEN-Digital_Garden-B43A4E?style=flat-square&logo=githubpages&logoColor=white" alt="访问 WINTEROMEN 数字花园">
   </a>
