@@ -1,7 +1,10 @@
 <div align="center">
   <a href="https://yzh-01.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=B43A4E&center=true&vCenter=true&width=480&lines=Hi%2C+I%27m+ZIH+Y;XJTU+%C2%B7+CS+%C2%B7+Year+3;AI+%2B+Full-stack+Builder" alt="动态打字介绍">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=B43A4E&center=true&vCenter=true&width=480&lines=Images+%E2%86%92+Useful+Insight;Long+Text+%E2%86%92+Clear+Structure;Ideas+%E2%86%92+Working+Products" alt="围绕图像、长文本和产品构建的动态打字介绍">
   </a>
+
+  <p><strong>AI 应用与全栈产品构建</strong></p>
+  <p>把图像、长文本与想法，做成真正可用的产品。</p>
 
   <a href="https://yzh-01.github.io/">
     <img src="https://img.shields.io/badge/WINTEROMEN-Digital_Garden-B43A4E?style=flat-square&logo=githubpages&logoColor=white" alt="访问 WINTEROMEN 数字花园">
@@ -10,7 +13,7 @@
 
 ## 👋 关于我
 
-喜欢把图像、长文本与个人数据做成真正可用的工具。最近在深入 TypeScript 类型系统与编译器 API，并持续维护个人数字花园。
+主要使用 Python 和 TypeScript。近期深入 TypeScript 类型系统与编译器 API，并持续维护个人数字花园。
 
 ## 🚀 项目
 
