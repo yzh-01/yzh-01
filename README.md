@@ -1,36 +1,59 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner-light.svg">
-  <img src="./assets/profile-banner-light.svg" alt="ZIH Y，西安交通大学计算机专业大三学生的像素风个人档案横幅" width="100%">
-</picture>
+<div align="center">
+  <a href="https://yzh-01.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=B43A4E&center=true&vCenter=true&width=480&lines=Hi%2C+I%27m+ZIH+Y;XJTU+%C2%B7+CS+%C2%B7+Year+3;AI+%2B+Full-stack+Builder" alt="动态打字介绍">
+  </a>
+
+  <p><strong>西安交通大学 · 计算机专业 · 大三</strong></p>
+  <p>目前专注 AI 应用与全栈开发，主要使用 Python 和 TypeScript。</p>
+
+  <a href="https://yzh-01.github.io/">
+    <img src="https://img.shields.io/badge/WINTEROMEN-Digital_Garden-B43A4E?style=flat-square&logo=githubpages&logoColor=white" alt="访问 WINTEROMEN 数字花园">
+  </a>
+</div>
+
+## 👋 关于我
+
+喜欢把图像、长文本与个人数据做成真正可用的工具。最近在深入 TypeScript 类型系统与编译器 API，并持续维护个人数字花园。
+
+## 🚀 项目
+
+- [**NutriMind-Agent**](https://github.com/yzh-01/NutriMind-Agent) — 食物图像识别、营养计算、RAG 与 AI Agent
+- [**Novel2Script-AI**](https://github.com/yzh-01/Novel2Script-AI) — 将长篇小说转换为结构化 YAML 剧本 · [在线 Demo](https://novel2-script-ai.vercel.app/)
+- [**WINTEROMEN**](https://github.com/yzh-01/yzh-01.github.io) — 个人数字花园与原生前端实践
+- [**Image2Story-AI**](https://github.com/yzh-01/Image2Story-AI) — 从图片生成故事的轻量 AI 实验
+
+## 🧰 技术栈
 
 <p align="center">
-  <strong>西安交通大学 · 计算机专业 · 大三</strong><br>
-  正在学习，也在做一些 AI 与 Web 项目。
+  <img src="https://img.shields.io/badge/Python-0A0C11?style=for-the-badge&logo=python&logoColor=6DA7D9" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-0A0C11?style=for-the-badge&logo=typescript&logoColor=6DA7D9" alt="TypeScript">
+  <img src="https://img.shields.io/badge/FastAPI-0A0C11?style=for-the-badge&logo=fastapi&logoColor=6DA7D9" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-0A0C11?style=for-the-badge&logo=react&logoColor=6DA7D9" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-0A0C11?style=for-the-badge&logo=nextdotjs&logoColor=E8E5DE" alt="Next.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-0A0C11?style=for-the-badge&logo=postgresql&logoColor=6DA7D9" alt="PostgreSQL">
 </p>
 
-## `> ABOUT`
+## 📊 GitHub 数据
 
-你好，我是 yzh-01。目前主要使用 Python 和 TypeScript，关注 AI 应用与全栈开发。
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yzh-01&theme=github_dark&title_color=B43A4E&text_color=E8E5DE&bg_color=0A0C11&border_color=252A33&icon_color=6DA7D9&animation=load">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yzh-01&theme=github&title_color=B43A4E&text_color=252A33&bg_color=FFFFFF&border_color=D0D7DE&icon_color=6DA7D9&animation=load">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yzh-01&theme=github&title_color=B43A4E&text_color=252A33&bg_color=FFFFFF&border_color=D0D7DE&icon_color=6DA7D9&animation=load" alt="yzh-01 的 GitHub 公开数据统计">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yzh-01&theme=github_dark&title_color=B43A4E&text_color=E8E5DE&bg_color=0A0C11&border_color=252A33&icon_color=6DA7D9&chart_color=6DA7D9&animation=load">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yzh-01&theme=github&title_color=B43A4E&text_color=252A33&bg_color=FFFFFF&border_color=D0D7DE&icon_color=6DA7D9&chart_color=6DA7D9&animation=load">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yzh-01&theme=github&title_color=B43A4E&text_color=252A33&bg_color=FFFFFF&border_color=D0D7DE&icon_color=6DA7D9&chart_color=6DA7D9&animation=load" alt="yzh-01 的公开仓库语言构成">
+  </picture>
+</p>
 
-[WINTEROMEN 数字花园 →](https://yzh-01.github.io/)
-
-## `> PROJECTS`
-
-- [NutriMind-Agent](https://github.com/yzh-01/NutriMind-Agent) — AI 营养分析应用
-- [Novel2Script-AI](https://github.com/yzh-01/Novel2Script-AI) — 小说转结构化剧本工具 · [Demo](https://novel2-script-ai.vercel.app/)
-- [WINTEROMEN](https://github.com/yzh-01/yzh-01.github.io) — 个人数字花园
-
-## `> STACK`
-
-`Python` · `TypeScript` · `FastAPI` · `React` · `Next.js` · `PostgreSQL`
-
-## `> CONTRIBUTIONS`
+## 🐍 贡献轨迹
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yzh-01/yzh-01/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yzh-01/yzh-01/output/github-snake.svg">
-  <img alt="GitHub 贡献热力图贪吃蛇动画" src="https://raw.githubusercontent.com/yzh-01/yzh-01/output/github-snake.svg">
+  <img alt="贪吃蛇沿着 yzh-01 的 GitHub 贡献热力图移动" src="https://raw.githubusercontent.com/yzh-01/yzh-01/output/github-snake.svg">
 </picture>
 
-<sub>INSERT COIN · KEEP BUILDING</sub>
+<p align="center"><sub>Keep learning. Keep building.</sub></p>
